@@ -2,4 +2,6 @@
 
 Console.WriteLine("Hello, Ulearn!!!");
 
+Console.WriteLine("Работаю...");
+
 Console.WriteLine("Пока :с");
